@@ -1,24 +1,5 @@
 [
   {
-    "id": "aaddc3c5-5775-48e3-86af-ed2206d4aac2",
-    "title": "Title Lorem ipsum",
-    "channel": "Sahar Khyabani",
-    "image": "http://localhost:8080/images/image9.jpg",
-    "description": "Description Lorem Ipsum",
-    "views": 45,
-    "likes": 38,
-    "duration": "03:06",
-    "timestamp": 1713048253033,
-    "comments": [
-      {
-        "name": "Hannah Jenkins",
-        "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed posuere diam nec justo suscipit suscipit. Nam non ornare dolor. Curabitur hendrerit euismod nisi, in eleifend velit blandit sed. Sed vulputate dolor dolor, id molestie dolor accumsan vel. Vestibulum magna elit, semper vel sagittis in, ullamcorper venenatis tellus.",
-        "likes": 0,
-        "timestamp": 1713048253033
-      }
-    ]
-  },
-  {
     "id": "84e96018-4022-434e-80bf-000ce4cd12b8",
     "title": "The Future of Artificial Intelligence",
     "channel": "Aiden Thompson",
@@ -30,6 +11,12 @@
     "video": "https://unit-3-project-api-0a5620414506.herokuapp.com/stream",
     "timestamp": 1691471862000,
     "comments": [
+      {
+        "name": "Kate Polyakov",
+        "comment": "I can add comments using react SPA",
+        "id": "f9eb15d0-d920-437d-b4f4-45a064bc59c9",
+        "timestamp": 1713222595400
+      },
       {
         "id": "35bba08b-1b51-4153-ba7e-6da76b5ec1b9",
         "name": "Noah Duncan",
