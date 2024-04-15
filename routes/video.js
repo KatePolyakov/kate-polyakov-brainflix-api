@@ -51,7 +51,6 @@ videoRouter.post('/:videoId/comments', (req, res) => {
     name: 'Kate Polyakov',
     comment: comment,
     id: uuid(),
-    likes: 0,
     timestamp: Date.now(),
   };
 
